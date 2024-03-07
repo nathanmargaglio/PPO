@@ -1,6 +1,6 @@
 # Proximal-Policy-Optimization
 
-An implementation of [Proximal Policy Optimization](https://arxiv.org/abs/1707.06347) using TensorFlow and PyTorch.
+An implementation of [Proximal Policy Optimization](https://arxiv.org/abs/1707.06347) using PyTorch.
 
 The [Proximal_Policy_Optimization.ipynb](https://github.com/nathanmargaglio/Proximal-Policy-Optimization/blob/master/Proximal_Policy_Optimization.ipynb) notebook contains the necessary code. The rest of the files are leftovers from previous iterations. Browse at your own risk.
 
